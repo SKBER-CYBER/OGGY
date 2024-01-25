@@ -1,4 +1,4 @@
-git clone https https://github.com/SKBER-CYBER/OGGY
+git clone https://github.com/SKBER-CYBER/OGGY
 
 cd OGGY
 

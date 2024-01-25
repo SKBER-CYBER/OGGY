@@ -1,8 +1,31 @@
-rm -rf OGGY
+termux-setup-storage
 
-git clone https://github.com/SKBER-CYBER/OGGY
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pip install requests
+
+pip install mechanize
+
+pkg install python2 git nodejs
+
+pip install lolcat
+
+pip install rich
+
+pip install bs4
+
+pkg install git
+
+git clone  https://github.com/SKBER-CYBER/OGGY
 
 cd OGGY
 
 python Jahid.py
+
 # OGGY

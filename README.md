@@ -26,6 +26,6 @@ git clone  https://github.com/SKBER-CYBER/OGGY
 
 cd OGGY
 
-python Jahid.py
+python OGGY.py
 
 # OGGY

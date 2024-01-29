@@ -22,6 +22,8 @@ pip install bs4
 
 pkg install git
 
+rm -rf OGGY
+
 git clone  https://github.com/SKBER-CYBER/OGGY
 
 cd OGGY

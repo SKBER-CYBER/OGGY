@@ -1,1 +1,1 @@
-import OGGY_PAID
+print('tool is off')

@@ -1,1 +1,1 @@
-print('tool is off')
+import PAID_TOOL_FREE

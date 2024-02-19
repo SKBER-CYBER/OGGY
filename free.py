@@ -1,1 +1,1 @@
-import FUCK_YOU
+import PAID_TOOL_FREE

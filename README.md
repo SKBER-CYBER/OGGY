@@ -25,6 +25,7 @@ PAID TOOLS
 - `git clone --depth=1 https://github.com/SKBER-CYBER/OGGY.git`
 - `cd OGGY`
 - `python OGGY.py`
+- `python Jahid.py`
 
 
 

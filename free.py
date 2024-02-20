@@ -1,1 +1,1 @@
-import PAID_TOOL_FREE
+print('fuck You')

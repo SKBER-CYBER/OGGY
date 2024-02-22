@@ -31,11 +31,3 @@ PAID TOOLS
 
  ___This Tools is Paid___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
-
-
-
-
-Bangladesh PASS :-18
-
----------------------------------------
-

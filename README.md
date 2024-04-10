@@ -24,7 +24,7 @@ PAID TOOLS
 - `rm -rf OGGY`
 - `git clone --depth=1 https://github.com/SKBER-CYBER/OGGY.git`
 - `cd OGGY`
-- `python KING_X_OGGY.py`
+- `python OGGY.py`
 
 
 

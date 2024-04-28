@@ -1,3 +1,5 @@
-import os
+import os,time
 os.system('clear')
-print('place w8')
+for up in range(999):
+print('[+] Place W8')
+time.sleep(0.1)

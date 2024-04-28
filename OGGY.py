@@ -15,5 +15,5 @@ logo=f"""{G1}
 os.system('clear')
 print(logo)
 for up in range(10):
-  print(f"{A}[{G1}+{A}] PLEASE WAIT YOUR NEXT UPDATE ")
+  print(f"{A}[{G1}+{A}] {G1}PLEASE WAIT YOUR NEXT UPDATE ")
   time.sleep(1)

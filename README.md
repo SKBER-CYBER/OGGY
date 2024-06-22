@@ -1,7 +1,7 @@
 #OGGY
 
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SKBER-CYBER-dimgray?style=flat-square&logo=github)](https://github.com/SKBER-CYBER)<br> [![Facebook](https://img.shields.io/badge/Facebook-SKBER-CYBER-blue?style=flat-square&logo=facebook)]([https://www.facebook.com/profile.php?id=100086415663015](https://www.facebook.com/oggyfire))<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SKBER-CYBER-dimgray?style=flat-square&logo=github)](https://github.com/SKBER-CYBER)<br> [![Facebook](https://img.shields.io/badge/Facebook-SKBER-CYBER-blue?style=flat-square&logo=facebook)](https://www.facebook.com/oggyfire))<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
 
 
 

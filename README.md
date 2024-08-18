@@ -1,33 +1,29 @@
-# OGGY
-<br> [![Facebook](https://img.shields.io/badge/Facebook-MR.OGGY-blue?style=flat-square&logo=facebook)](https://www.facebook.com/oggyfire)
-
-<h1 align="center"> ERROR PROBLEM FIXED </h1>
-
-<h1 align="center"> MR.JAHID</h1>
-
-<h2 align="center"> LOGIN WITH ADMIN APPROVAL PAID TOOLS</h2>
-
-<h3 align="center"> NEW FILE CLONING PRO TOOLS </h3>
-
-## <b>Installation</b>
+Welcome💥
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 
-This Tools Working Only 64bit Mobile!
 
-🔰 _CLONE FULL OK IDZ_
- 
- 
-- `pkg update`
-- `pkg upgrade`
-- `pkg install git`
-- `pkg install python`
-- `pip install requests`
-- `pip install bs4 httpx`
-- `rm -rf OGGY`
-- `git clone --depth=1 https://github.com/SKBER-CYBER/OGGY.git`
-- `cd OGGY`
-- `python OGGY.py`
+AUTHOR:
+<p align="center">
+MR.OGGY <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
-Note: (This Tools Are Paid, So You Need Permission To Use Oggy Tools Enjoy)
+</br>
+<p align="center">
 
-# OGGY
+<h2>_RUN_COMMAND 🔰» </h2>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PAID+AND+FREE+MIX+COMMAND+ENJOY+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
+
+```
+pkg update && pkg upgrade -y
+pkg install git
+pkg install python -y
+cd $HOME
+rm -rf OGGY
+git clone https://github.com/ZX-WORLDE/ZEROX
+cd ZEROX
+python Z-force.py
+```
+
+___This Tools is paid and Free There are both.___</br>

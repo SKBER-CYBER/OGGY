@@ -1,5 +1,5 @@
-# OGGY.
-<br> [![Facebook](https://img.shields.io/badge/Facebook-MR.XIDI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/oggyfire)
+# OGGY
+<br> [![Facebook](https://img.shields.io/badge/Facebook-MR.OGGY-blue?style=flat-square&logo=facebook)](https://www.facebook.com/oggyfire)
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 

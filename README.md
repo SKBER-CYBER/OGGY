@@ -1,20 +1,22 @@
-#OGGY
+# OGGY.
+<br> [![Facebook](https://img.shields.io/badge/Facebook-MR.XIDI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/oggyfire)
 
-PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SKBER-CYBER-dimgray?style=flat-square&logo=github)](https://github.com/SKBER-CYBER)<br> [![Facebook](https://img.shields.io/badge/Facebook-SKBER-CYBER-blue?style=flat-square&logo=facebook)](https://www.facebook.com/oggyfire))<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
+<h1 align="center"> ERROR PROBLEM FIXED </h1>
+
+<h1 align="center"> MR.JAHID</h1>
+
+<h2 align="center"> LOGIN WITH ADMIN APPROVAL PAID TOOLS</h2>
+
+<h3 align="center"> NEW FILE CLONING PRO TOOLS </h3>
+
+## <b>Installation</b>
 
 
-
-<h1 align="center"> [MR.JAHID]</h1>
-
-<h2 align="center">  FB CLONING TOOL </h2>
-
-
-## <b>installation</b>
+This Tools Working Only 64bit Mobile!
 
 🔰 _CLONE FULL OK IDZ_
-
-
+ 
+ 
 - `pkg update`
 - `pkg upgrade`
 - `pkg install git`
@@ -26,7 +28,6 @@ PAID TOOLS
 - `cd OGGY`
 - `python OGGY.py`
 
+Note: (This Tools Are Paid, So You Need Permission To Use Oggy Tools Enjoy)
 
-
- ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
+# OGGY

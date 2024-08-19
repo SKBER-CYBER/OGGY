@@ -25,17 +25,6 @@ git clone https://github.com/SKBER-CYBER/OGGY
 cd OGGY
 python OGGY.py
 
-```
-pkg update && pkg upgrade -y
-pkg install git
-pkg install python -y
-cd $HOME
-rm -rf OGGY
-git clone https://github.com/SKBER-CYBER/OGGY
-cd OGGY
-python OGGY.py
-```
-
 ___This Tools is paid and Free There are both.___</br>
 
 cd OGGY

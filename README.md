@@ -21,7 +21,10 @@ pkg install git
 pkg install python -y
 cd $HOME
 rm -rf OGGY
-git clone https://github.com/ZX-WORLDE/Welcome💥
+git clone https://github.com/SKBER-CYBER/OGGY
+cd OGGY
+python OGGY.py
+WORLDE/Welcome💥
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 

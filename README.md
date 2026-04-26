@@ -1,36 +1,46 @@
-💥Welcome💥
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+# Green-Lover.
+<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Oggy.fb)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6HeowtyCFEGJ)
 
+<h1 align="center"> ERROR PROBLEM FIXED </h1>
 
+<h1 align="center"> MR.OGGY</h1>
 
-AUTHOR:
-<p align="center">
-MR.OGGY <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+<h2 align="center"> LOGIN WITH ADMIN APPROVAL PAID TOOLS</h2>
 
-</br>
-<p align="center">
+<h3 align="center"> NEW FILE CLONING PRO TOOLS </h3>
 
-<h2>_RUN_COMMAND 🔰» </h2>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PAID+AND+FREE+MIX+COMMAND+ENJOY+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
+## <b>Installation</b>
 
 ```
-pkg update && pkg upgrade -y
-pkg install git
-pkg install python -y
-cd $HOME
-rm -rf OGGY
-git clone https://github.com/SKBER-CYBER/OGGY
-cd OGGY
-python OGGY.py
+This Tools Working Only 64bit Mobile!
 
-___This Tools is paid and Free There are both.___</br>
+$ pkg update
+$ pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pip install requests
+$ pip install mechanize
+$ pip install bs4
+$ pip install rich
+$ pkg install git
+$ rm -rf OGGY
+$ git clone --depth=1 https://github.com/SKBER-CYBER/OGGY.git
+$ cd OGGY
+$ python OGGY.py
 
-cd OGGY
-python OGGY-X.py
+Note: (This Tools Are Paid, So You Need Permission To Use MR OGGY Tools Enjoy)
 ```
 
-___This Tools is paid and Free There are both.___</br>
+# Single Command 
 
-ENJOY THIS TOOL=<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+```
+
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pip install rich; pkg install git ; git clone --depth=1 https://github.com/SKBER-CYBER/OGGY.git ; cd OGGY; python OGGY.py
+```
+
+![20200808_160757](https://github.com/SKBER-CYBER/OGGY/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
+
+ Note: (This Tools Are Paid, So You Need Permission To Use MR OGGY Tools Enjoy)</br>
+
+ [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Oggy.fb)</br>
+ [CODED BY Mr. OGGY]

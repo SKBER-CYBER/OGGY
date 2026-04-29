@@ -37,5 +37,5 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip instal
 ```
  Note: (This Tools Are Paid, So You Need Permission To Use MR OGGY Tools Enjoy)</br>
 
- [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Oggy.fb)</br>
+ [![Facebook](https://img.shields.io/badge/Facebook-Mr.OGGY-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Oggy.fb)</br>
  [CODED BY Mr. OGGY]

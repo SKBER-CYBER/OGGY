@@ -24,7 +24,8 @@ $ pip install bs4
 $ pip install rich
 $ pkg install git
 $ rm -rf OGGY
-$ git clone --depth=1 https://github.com/SKBER-CYBER/OGGY.git
+$ git pull
+$ git clone https://github.com/SKBER-CYBER/OGGY.git
 $ cd OGGY
 $ python OGGY.py
 
